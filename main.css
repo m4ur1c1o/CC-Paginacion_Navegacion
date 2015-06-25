@@ -1,0 +1,10 @@
+.container {
+  margin: 0 auto;  
+  width: 720px;
+}
+
+small.page_no {
+  float: right;
+  color: #ddd;
+}
+
